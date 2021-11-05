@@ -15,7 +15,7 @@ In particular, the clustering algotithm is based on a modification of KMeans whi
 
 The computation of the minimum path for each cluster is then done with the Christofides algorithm, provided by the famous library OR-Tools.
 
-The figure below shows a comparison between a classical clustering algorithm (KMeans) and the SC3 solution employed by this project: as we can see, the 'radial' shape of the clusters in the right drastically decreases the total distance traveled by the vehicles.
+The figure below shows a comparison between a classical KMeans (left) and the SC3 solution (right) employed by this project: as we can see, the 'radial' shape of the clusters in the right drastically decreases the total distance traveled by the vehicles.
 
 ![](https://github.com/matteodeggi/SC3-CVRP/blob/main/Images/Standard%20KMeans-vs-SC3.PNG)
 
