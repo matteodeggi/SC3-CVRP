@@ -1,6 +1,6 @@
-# Shape-Controlled Clustering: A new approach to the Capacited Vehicle Routing Problem
+# Shape-Controlled Clustering: A new approach to the Capacitated Vehicle Routing Problem
 
-The goal of the challenge was to implement a solution to the Capacited Vehicle Routing Problem with the following constraints:
+The goal of the challenge was to implement a solution to the Capacitated Vehicle Routing Problem with the following constraints:
 
 - Minimize the emptyings of every bin
 - Minimize the travel distance of every vehicle
